@@ -5,5 +5,16 @@ header{
 .logo img{
     width: 30%;
     height: 30%;
+}
+.navegacao{
+    overflow: hidden;
+}
+.navegacao a{
+    float: left;
+    display: block;
+    color: red;
+    text-decoration: none;
+    text-align: left;
+    padding: 10px 10px;
     
 }
