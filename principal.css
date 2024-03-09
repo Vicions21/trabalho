@@ -3,8 +3,8 @@ header{
 
 }
 .logo img{
-    width: 30%;
-    height: 30%;
+    width: 20%;
+    height: 20%;
 }
 .navegacao{
     overflow: hidden;
@@ -20,4 +20,8 @@ header{
 .navegacao a:hover{ 
     color:crimson;
     background-color: black;
+}
+h3{
+    
+
 }
