@@ -15,6 +15,9 @@ header{
     color: red;
     text-decoration: none;
     text-align: left;
-    padding: 10px 10px;
-    
+    padding: 10px 10px;  
+}
+.navegacao a:hover{ 
+    color:crimson;
+    background-color: black;
 }
