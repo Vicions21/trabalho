@@ -1,0 +1,105 @@
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(20, 20, 20);
+}
+
+.logo img{
+    width: 20%;
+    height: 20%;
+    vertical-align: top;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+.navegacao{
+    overflow: hidden;
+    background-color: rgb(20,20,20);
+}
+.navegacao a{
+    float: left;
+    display: block;
+    color: red;
+    text-decoration: none;
+    text-align: left;
+    padding: 20px 20px;
+}
+a.ajuda{
+    float:right;
+    display: block;
+    color:red;
+    text-decoration: none;
+    text-align: right;
+    padding:20px;
+}
+.navegacao a:hover{
+    background-color: black;
+}
+body{
+    background-color: rgb(20,20,20);
+    color: red;;
+}
+.RedBull{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    float: left;
+}
+.Ferrari{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    padding-top: 250px;
+    padding-left: 430px;
+}
+.mercedez{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    float: left;
+}
+.mc{
+    display: flex;
+    width: 250px;
+    height: 250px;
+    padding-top: 250px;
+    padding-left: 520px;
+}
+.alpine{
+width: 250px;
+height: 250px;
+display: flex;
+float: left;
+}
+.aston{
+    display: flex;
+    width: 300px;
+    height: 250px;
+    padding-top: 250px;
+    padding-left: 580px;
+}
+.has{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    float: left;
+}
+.alpha{
+    display: flex;
+    width: 300px;
+    height: 250px;
+    padding-top: 250px;
+    padding-left: 580px;
+}
+.romeu{
+    width: 250px;
+    height: 250px;
+    display: flex;
+    float: left;
+}
+.W{
+    display: flex;
+    width: 300px;
+    height: 250px;
+    padding-top: 250px;
+    padding-left: 500px;
+}
